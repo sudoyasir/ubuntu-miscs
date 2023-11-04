@@ -16,7 +16,7 @@ Feel free to explore the code, use it as a reference, or modify it for your own 
 
 ## License
 
-This project is licensed under the [MIT] License - see the [License](LICENSE) file for details.
+This project is licensed under the [MIT](LICENSE) License - see the [License](LICENSE) file for details.
 
 ## Contributing
 
