@@ -27,4 +27,4 @@ As this repository is primarily for personal practice, I might not actively acce
 
 **Yasir Nawaz** - Aspiring developer and enthusiast of Lua and Shell scripting.
 
-For any queries or feedback, feel free to reach out at [y451rmahar@email.com].
+For any queries or feedback, feel free to reach out at [y451rmahar@email.com](mailto:y451rmahar@gmail.com).
