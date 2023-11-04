@@ -1,3 +1,4 @@
+# This script will take two numbers as input and perform arithmetic operations on them.
 #!/bin/bash
 echo "Enter first number: "
 read num1
@@ -20,5 +21,3 @@ then
 else
     echo "Cannot divide by zero."
 fi
-
-# This script will take two numbers as input and perform arithmetic operations on them.

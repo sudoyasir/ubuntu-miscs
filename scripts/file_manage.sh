@@ -1,3 +1,4 @@
+# This script will create, delete, or list files in a directory.
 #!/bin/bash
 
 # Function to create a new file
@@ -46,5 +47,3 @@ while true; do
         *) echo "Invalid choice. Please choose again." ;;
     esac
 done
-
-# This script will create, delete, or list files in a directory.

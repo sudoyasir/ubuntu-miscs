@@ -1,3 +1,4 @@
+# This script will add, remove, or modify a user.
 #!/bin/bash
 action=$1
 username=$2
@@ -15,5 +16,3 @@ elif [ "$action" = "modify" ]; then
 else
     echo "Invalid action. Usage: user_management.sh add|remove|modify username"
 fi
-
-# This script will add, remove, or modify a user.
